@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lemoerl.
+- 👋 Hi, I’m @XD_6.
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning C, Html, Css, Java script and other languages.
 - 💞️ I’m looking to collaborate on some projects.
